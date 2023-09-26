@@ -5,8 +5,8 @@
   "scripts": {
     "d": "astro dev",
     "dev": "astro dev",
-    "start": "astro dev",
     "build": "astro build",
+    "start": "node dist/server/entry.mjs",
     "preview": "astro preview --port {PORT}",
     "astro": "astro"
   },
