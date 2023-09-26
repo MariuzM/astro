@@ -7,10 +7,10 @@ import tailwind from '@astrojs/tailwind';
 export default defineConfig({
   output: 'hybrid',
   adapter: node({
-    mode: 'standalone',
+    mode: 'middleware',
   }),
-  server: {
-    host: '0.0.0.0',
-  },
+  // server: {
+  //   host: '0.0.0.0',
+  // },
   integrations: [tailwind()],
 });
