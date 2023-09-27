@@ -2,7 +2,7 @@
   Astro
 </h1>
 
-<p align="center">Astro starter pack
+<p align="center">Astro starter pack and ready to deploy to Railway.app
 
 <p align="center"><b>TailwindCSS</b> | <b>DaisyUI</b> | <b>SPA</b>
 
