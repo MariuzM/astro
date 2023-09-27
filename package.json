@@ -1,5 +1,5 @@
 {
-  "name": "test__astro",
+  "name": "astro",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -14,6 +14,7 @@
     "@astrojs/node": "^6.0.1",
     "@astrojs/tailwind": "^5.0.0",
     "astro": "^3.1.4",
+    "astro-spa": "^1.3.9",
     "daisyui": "^3.8.0",
     "tailwindcss": "^3.0.24"
   }
