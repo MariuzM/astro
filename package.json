@@ -1,7 +1,7 @@
 {
   "name": "astro",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "scripts": {
     "d": "astro dev",
     "dev": "astro dev",
